@@ -19,7 +19,7 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
 ഹായ് {}, എന്റെ പേര് {}! THIS BOT CAN'T JOIN YOUR GROUPS 😎!
-
+For more information join @jacob_paul1
 """
 
 HELP_STRINGS = """
